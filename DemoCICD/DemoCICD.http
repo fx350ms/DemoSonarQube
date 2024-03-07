@@ -1,0 +1,6 @@
+@DemoCICD_HostAddress = http://localhost:5181
+
+GET {{DemoCICD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
